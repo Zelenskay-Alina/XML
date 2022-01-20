@@ -1,3 +1,16 @@
 <bug_report>
-  <bug> null </bug>
-    </bug_report>
+<Summary> short description</Summary>
+<Project> project name</Project>
+<Component> the component in which the defect was detected</Component>
+<Version> the version of the assembly on which the detected defect is reproduced</Version>
+<Severity> criticality of the defect</Severity>
+<Priority>the order of correction of the defect</Priority>
+<Status> the status of the defect in its life cycle</Status>
+<Author>the creator of the bug report</Author>
+<Assigned_to> name of the employee assigned to solve the problem</Assigned_to>
+<Environment> name and version of the browser, version OS, service pack</Environment>
+<Steps> to Reproduce defect reproduction steps<Steps/>
+<Result> the result obtained after passing the steps to playback</Result>
+<Expected> Result expected correct result</Expected>
+<Attachment> a log file, screenshot, or any other document that can help clarify the cause of the error</Attachment>
+</bug_report>
